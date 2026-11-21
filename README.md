@@ -1,54 +1,78 @@
 # 配置文件图标库
 
-代理软件（Quantumult X、Surge、Loon、Egern、Stash 等）配置文件图标订阅合集。把下面任意一个订阅链接填到代理软件的图标订阅里，就能给配置文件、订阅、策略组换上对应的一套图标。
+代理软件（Quantumult X、Surge、Loon、Egern、Stash 等）配置文件图标订阅合集。点下面图标集的名字就是订阅链接，复制后填到代理软件的图标订阅里，就能给配置文件、订阅、策略组换上对应的一套图标。
 
 ## 图标列表
 
 ### Qure 系列（作者：Koolson）
 
-| 图标集 | 风格 / 说明 | 图标数 | 订阅链接 |
-|---|---|---|---|
-| Qure mini | 迷你透明主题，适合做订阅图标 | 347 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json |
-| Qure Color（全部） | 彩色主题 · 所有图标 | 310 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json |
-| Qure Color（默认） | 彩色主题 · 默认 | 15 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json |
-| Qure Color（常用） | 彩色主题 · 常用 | 12 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json |
-| Qure Color（应用与游戏） | 彩色主题 · 应用与游戏 | 41 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json |
-| Qure Color（服务） | 彩色主题 · 服务 | 16 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json |
-| Qure Color（其它） | 彩色主题 · 其它 | 47 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json |
-| Qure Color（地区） | 彩色主题 · 地区 | 56 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json |
-| Qure Color（流媒体） | 彩色主题 · 流媒体 | 99 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json |
-| Qure Color（服务器） | 彩色主题 · 服务器 | 9 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json |
-| Qure Color（禁止） | 彩色主题 · 禁止 | 4 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json |
-| Qure Light（全部） | 浅色主题 · 所有图标 | 319 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json |
+| 图标集 | 风格 / 说明 | 图标数 |
+|---|---|---|
+| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json) | 迷你透明主题，适合做订阅图标 | 347 |
+| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json) | 彩色主题 · 所有图标 | 310 |
+| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json) | 彩色主题 · 默认 | 15 |
+| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json) | 彩色主题 · 常用 | 12 |
+| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json) | 彩色主题 · 应用与游戏 | 41 |
+| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json) | 彩色主题 · 服务 | 16 |
+| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json) | 彩色主题 · 其它 | 47 |
+| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json) | 彩色主题 · 地区 | 56 |
+| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json) | 彩色主题 · 流媒体 | 99 |
+| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json) | 彩色主题 · 服务器 | 9 |
+| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json) | 彩色主题 · 禁止 | 4 |
+| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json) | 浅色主题 · 所有图标 | 319 |
 
-原地址（Koolson/Qure）：https://github.com/Koolson/Qure
+原地址：[Koolson/Qure](https://github.com/Koolson/Qure)
+
+**Qure 预览图**
+
+![Qure mini](preview/Quremini.png)
+
+![Qure Color](preview/QureColor-All.png)
+
+![Qure Light](preview/QureLight-All.png)
 
 ### 其他作者
 
-| 图标集 | 作者 | 风格 / 说明 | 图标数 | 订阅链接 |
-|---|---|---|---|---|
-| mini icons | Orz-3 | 迷你图标，含机场订阅、Task、地区、策略组图标 | 86 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json |
-| Hand Painted Icon | Semporia | 手绘风 | 379 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json |
-| Cute | tugepaopao | 可爱风，陆续更新中 | 125 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json |
-| Catcat | Yuanxsxs | 猫咪主题 | 41 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json |
-| 拿她练技术 | LovedGM | 练手作品 | 40 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json |
-| Attack on Titan | Toperlock | 进击的巨人主题 | 84 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json |
-| Package Name | crossutility | 示例（仅 3 个图标） | 3 | https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json |
+| 图标集 | 作者 | 风格 / 说明 | 图标数 |
+|---|---|---|---|
+| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json) | Orz-3 | 迷你图标，含机场订阅、Task、地区、策略组图标 | 86 |
+| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json) | Semporia | 手绘风 | 379 |
+| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json) | tugepaopao | 可爱风，陆续更新中 | 125 |
+| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json) | Yuanxsxs | 猫咪主题 | 41 |
+| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json) | LovedGM | 练手作品 | 40 |
+| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json) | Toperlock | 进击的巨人主题 | 84 |
+| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json) | crossutility | 示例（仅 3 个图标） | 3 |
 
 原地址：
-- Orz-3/mini：https://raw.githubusercontent.com/Orz-3/mini/master/mini.json
-- Semporia/Hand-Painted-icon：https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json
-- tugepaopao/Image-Storage：https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/other/Cute.json
-- Yuanxsxs/QtumultX：https://raw.githubusercontent.com/Yuanxsxs/QtumultX/master/Icon/Catcat.json
-- LovedGM/Quantumult-X-TuBiao：https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs.json
-- Toperlock/Quantumult：https://raw.githubusercontent.com/Toperlock/Quantumult/main/AOT-icons.json
-- crossutility/Quantumult-X：https://raw.githubusercontent.com/crossutility/Quantumult-X/master/icon-gallery.json
+- [Orz-3/mini](https://raw.githubusercontent.com/Orz-3/mini/master/mini.json)
+- [Semporia/Hand-Painted-icon](https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json)
+- [tugepaopao/Image-Storage](https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/other/Cute.json)
+- [Yuanxsxs/QtumultX](https://raw.githubusercontent.com/Yuanxsxs/QtumultX/master/Icon/Catcat.json)
+- [LovedGM/Quantumult-X-TuBiao](https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs.json)
+- [Toperlock/Quantumult](https://raw.githubusercontent.com/Toperlock/Quantumult/main/AOT-icons.json)
+- [crossutility/Quantumult-X](https://raw.githubusercontent.com/crossutility/Quantumult-X/master/icon-gallery.json)
+
+**其他作者预览图**
+
+![mini icons](preview/mini.png)
+
+![Hand Painted Icon](preview/Semporia.png)
+
+![Cute](preview/Cute.png)
+
+![Catcat](preview/Catcat.png)
+
+![拿她练技术](preview/zishi-cs.png)
+
+![Attack on Titan](preview/AOT-icons.png)
+
+![Package Name](preview/icon-gallery.png)
 
 ## 使用教程
 
 ### 第一步：订阅图标库
 
-复制上面想要的那套图标的「订阅链接」，在代理软件的图标订阅（图标库）里添加，App 就会拉取整套图标，之后在换图标时直接从里面挑。
+点上面想要的那套图标集的名字，复制链接地址（名字本身就是订阅链接），在代理软件的图标订阅（图标库）里添加，App 就会拉取整套图标，之后在换图标时直接从里面挑。
 
 - Quantumult X：在图标订阅处添加订阅链接。
 - Loon：在图标订阅处添加订阅链接。
@@ -64,7 +88,7 @@
 
 **订阅图标（文本编辑）：**打开配置文件编辑，找到 `[server_remote]`，在想加图标的订阅那行、`enabled=true` 之前加上 `img-url=图标地址`，前后用英文逗号隔开、逗号后空一格。
 
-完整示例：`https://example.com/sub.txt, tag=订阅名, img-url=https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json, enabled=true`
+完整示例：`https://example.com/sub.txt, tag=订阅名, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/mini/Direct.png, enabled=true`
 
 **策略组图标：**
 - 界面操作：长按想改图标的策略组，选编辑，在图标一栏填图标地址。
