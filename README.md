@@ -1,6 +1,10 @@
-# 配置文件图标库
+![配置文件图标库](header.png)
 
 代理软件（Quantumult X、Surge、Loon、Egern、Stash 等）配置文件图标订阅合集。点下面图标集的名字就是订阅链接，复制后填到代理软件的图标订阅里，就能给配置文件、订阅、策略组换上对应的一套图标。
+
+## 全部图标一览
+
+![全部图标一览](showcase.png)
 
 ## 图标列表
 
@@ -25,11 +29,10 @@
 
 **Qure 预览图**
 
-![Qure mini](preview/Quremini.png)
-
-![Qure Color](preview/QureColor-All.png)
-
-![Qure Light](preview/QureLight-All.png)
+| | |
+|---|---|
+| ![Qure mini](preview/Quremini.png) | ![Qure Color](preview/QureColor-All.png) |
+| ![Qure Light](preview/QureLight-All.png) | |
 
 ### 其他作者
 
@@ -54,19 +57,12 @@
 
 **其他作者预览图**
 
-![mini icons](preview/mini.png)
-
-![Hand Painted Icon](preview/Semporia.png)
-
-![Cute](preview/Cute.png)
-
-![Catcat](preview/Catcat.png)
-
-![拿她练技术](preview/zishi-cs.png)
-
-![Attack on Titan](preview/AOT-icons.png)
-
-![Package Name](preview/icon-gallery.png)
+| | |
+|---|---|
+| ![mini icons](preview/mini.png) | ![Hand Painted Icon](preview/Semporia.png) |
+| ![Cute](preview/Cute.png) | ![Catcat](preview/Catcat.png) |
+| ![拿她练技术](preview/zishi-cs.png) | ![Attack on Titan](preview/AOT-icons.png) |
+| ![Package Name](preview/icon-gallery.png) | |
 
 ## 使用教程
 
