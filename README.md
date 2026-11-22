@@ -2,6 +2,27 @@
 
 代理软件（Quantumult X、Surge、Loon、Egern、Stash 等）配置文件图标订阅合集。点下面图标集的名字就是订阅链接，复制后填到代理软件的图标订阅里，就能给配置文件、订阅、策略组换上对应的一套图标。
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%9B%BE%E6%A0%87%E5%BA%93%3B19+%E5%A5%97%E5%9B%BE%E6%A0%87+%C2%B7+%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85%3B%E7%82%B9%E5%9B%BE%E6%A0%87%E9%9B%86%E5%90%8D%E5%AD%97%E5%B0%B1%E6%98%AF%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5)
+
+![访问量](https://komarev.com/ghpvc/?username=lzr52o&color=0e75b6&style=flat)
+
+</div>
+
+## 📊 数据统计
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzr52o&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lzr52o&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lzr52o&theme=github-compact)
+
+</div>
+
 ## 全部图标一览
 
 ![全部图标一览](showcase.png)
