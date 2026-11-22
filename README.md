@@ -39,7 +39,7 @@
 
 </div>
 
-## 🐍 贪吃蛇
+## 🎮 贡献图
 
 <div align="center">
 
