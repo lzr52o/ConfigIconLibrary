@@ -12,6 +12,35 @@ A collection of profile icon subscriptions for proxy apps (Quantumult X, Surge, 
 
 </div>
 
+## 📖 Usage Guide
+
+In short: this is a profile icon subscription library that lets you give the profiles, subscriptions, and policy groups in your proxy app a nicer look.
+
+### What is this
+
+This library holds 19 profile icon sets, with all icon files in the root of this repository. Click any icon set name in the "Icon List" below — the name itself is the subscription link. Note: these icons are for profiles, subscriptions, and policy groups, not for proxy nodes.
+
+### What you need
+
+- An iPhone, iPad, or Mac with one of these proxy apps installed: Quantumult X, Loon, Surge, Egern, or Stash.
+- Network access to GitHub — subscription links are served from `raw.githubusercontent.com`.
+
+### How to use
+
+1. Pick an icon set you like in the "Icon List" below, click its name, and copy the link.
+2. Open your proxy app, paste the link in the icon subscription (icon library) section to add the subscription, and wait for the app to fetch the icons.
+3. Open a profile (or long-press it), pick an icon from your subscribed icon libraries in the icon field, and save.
+4. Subscriptions and policy groups work the same way: pick from the icon library in their icon settings.
+
+See the "[Tutorial](#tutorial)" section below for the exact entry points in each app and the `img-url` format.
+
+### FAQ
+
+- **Icons don't show up after subscribing?** First check that you copied the full link, then manually refresh the icon subscription in the app. If `raw.githubusercontent.com` is unreachable from your network, the subscription will fail.
+- **Want just one icon instead of the whole set?** You can — use that single icon's direct PNG link after `img-url=`. See "Direct Link for a Single Icon (img-url)" in the Tutorial.
+- **Are these node icons?** No. The icons in this library are for profiles, subscriptions, and policy groups. For node icons, look for a node icon library.
+- **Are there newer versions of the icons?** The icons come from each author's original repository; this library only collects the subscriptions. To check the latest version of a set, follow the original link in the "Icon List".
+
 ## 📊 Statistics
 
 <div align="center">

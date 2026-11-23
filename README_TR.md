@@ -12,6 +12,35 @@ Proxy uygulamaları (Quantumult X, Surge, Loon, Egern, Stash vb.) için profil s
 
 </div>
 
+## 📖 Kullanım Bilgileri
+
+Kısacası: proxy uygulamanızdaki profil, abonelik ve politika grubu simgelerini daha güzel simgelerle değiştirmenizi sağlayan bir profil simgesi abonelik kitaplığıdır.
+
+### Bu nedir
+
+Bu kitaplıkta 19 profil simge seti vardır ve tüm simge dosyaları bu deponun kök dizinindedir. Aşağıdaki "Simge Listesi"nde beğendiğiniz bir simge setinin adına tıklayın — adın kendisi abonelik bağlantısıdır. Unutmayın: buradaki simgeler profil, abonelik ve politika grupları içindir, proxy düğümleri için değildir.
+
+### Gerekenler
+
+- Quantumult X, Loon, Surge, Egern veya Stash uygulamalarından birinin yüklü olduğu bir iPhone, iPad veya Mac.
+- GitHub'a erişebilen bir ağ bağlantısı — abonelik bağlantıları `raw.githubusercontent.com` üzerinden sunulur.
+
+### Nasıl kullanılır
+
+1. Aşağıdaki "Simge Listesi"nden beğendiğiniz bir simge seti seçin, adına tıklayıp bağlantıyı kopyalayın.
+2. Proxy uygulamanızı açın, bağlantıyı simge aboneliği (simge kitaplığı) bölümüne yapıştırarak aboneliği ekleyin ve uygulamanın simgeleri indirmesini bekleyin.
+3. Bir profili açın (veya üzerine uzun basın), simge alanında abone olduğunuz kitaplıklardan bir simge seçip kaydedin.
+4. Abonelik ve politika grubu simgeleri de aynı şekilde değiştirilir: simge ayarlarından kitaplıktan seçim yapın.
+
+Her uygulamadaki tam giriş noktaları ve `img-url` yazım biçimi için aşağıdaki "[Kullanım Kılavuzu](#kullanım-kılavuzu)" bölümüne bakın.
+
+### Sık sorulan sorular
+
+- **Abone oldum ama simgeler görünmüyor?** Önce bağlantıyı sonuna kadar kopyaladığınızdan emin olun, ardından uygulamada simge aboneliğini el ile yenileyin. Ağınızdan `raw.githubusercontent.com` adresine ulaşılamıyorsa abonelik başarısız olur.
+- **Tüm set yerine tek bir simge kullanmak istiyorum?** Olur — o simgenin doğrudan PNG bağlantısını `img-url=` sonrasına yazmanız yeterlidir. Ayrıntılar için Kullanım Kılavuzu'ndaki "Tek Simge İçin Doğrudan Bağlantı (img-url)" bölümüne bakın.
+- **Bunlar düğüm simgeleri mi?** Hayır. Bu kitaplığın simgeleri profil, abonelik ve politika grupları içindir. Düğüm simgeleri için bir düğüm simge kitaplığına bakın.
+- **Simgelerin yeni sürümü var mı?** Simgeler her yazarın kendi deposundandır; bu kitaplık yalnızca abonelikleri toplar. Bir setin en son sürümünü görmek için "Simge Listesi"ndeki orijinal bağlantıyı takip edin.
+
 ## 📊 İstatistikler
 
 <div align="center">
