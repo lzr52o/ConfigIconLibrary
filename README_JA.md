@@ -64,18 +64,18 @@
 
 | アイコンセット | スタイル / 説明 | アイコン数 |
 |---|---|---|
-| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json) | ミニ透明テーマ、サブスクリプションアイコンに最適 | 347 |
-| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json) | カラーテーマ · すべてのアイコン | 310 |
-| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json) | カラーテーマ · デフォルト | 15 |
-| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json) | カラーテーマ · よく使うもの | 12 |
-| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json) | カラーテーマ · アプリとゲーム | 41 |
-| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json) | カラーテーマ · サービス | 16 |
-| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json) | カラーテーマ · その他 | 47 |
-| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json) | カラーテーマ · 地域 | 56 |
-| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json) | カラーテーマ · ストリーミングメディア | 99 |
-| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json) | カラーテーマ · サーバー | 9 |
-| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json) | カラーテーマ · 禁止 | 4 |
-| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json) | ライトテーマ · すべてのアイコン | 319 |
+| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Quremini.json) | ミニ透明テーマ、サブスクリプションアイコンに最適 | 347 |
+| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-All.json) | カラーテーマ · すべてのアイコン | 310 |
+| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Default.json) | カラーテーマ · デフォルト | 15 |
+| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Common.json) | カラーテーマ · よく使うもの | 12 |
+| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-AppGame.json) | カラーテーマ · アプリとゲーム | 41 |
+| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Service.json) | カラーテーマ · サービス | 16 |
+| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Other.json) | カラーテーマ · その他 | 47 |
+| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Area.json) | カラーテーマ · 地域 | 56 |
+| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Media.json) | カラーテーマ · ストリーミングメディア | 99 |
+| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Server.json) | カラーテーマ · サーバー | 9 |
+| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Inhibition.json) | カラーテーマ · 禁止 | 4 |
+| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureLight-All.json) | ライトテーマ · すべてのアイコン | 319 |
 
 元のアドレス：[Koolson/Qure](https://github.com/Koolson/Qure)
 
@@ -90,13 +90,13 @@
 
 | アイコンセット | 作者 | スタイル / 説明 | アイコン数 |
 |---|---|---|---|
-| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json) | Orz-3 | ミニアイコン。空港サブスクリプション、Task、地域、ポリシーグループのアイコンを含む | 86 |
-| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json) | Semporia | 手描き風 | 379 |
-| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json) | tugepaopao | かわいい系、随時更新中 | 125 |
-| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json) | Yuanxsxs | 猫テーマ | 41 |
-| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json) | LovedGM | 練習作品 | 40 |
-| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json) | Toperlock | 進撃の巨人テーマ | 84 |
-| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json) | crossutility | サンプル（アイコンは 3 個のみ） | 3 |
+| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/mini.json) | Orz-3 | ミニアイコン。空港サブスクリプション、Task、地域、ポリシーグループのアイコンを含む | 86 |
+| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Semporia.json) | Semporia | 手描き風 | 379 |
+| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Cute.json) | tugepaopao | かわいい系、随時更新中 | 125 |
+| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Catcat.json) | Yuanxsxs | 猫テーマ | 41 |
+| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/zishi-cs.json) | LovedGM | 練習作品 | 40 |
+| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/AOT-icons.json) | Toperlock | 進撃の巨人テーマ | 84 |
+| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/icon-gallery.json) | crossutility | サンプル（アイコンは 3 個のみ） | 3 |
 
 元のアドレス：
 - [Orz-3/mini](https://raw.githubusercontent.com/Orz-3/mini/master/mini.json)

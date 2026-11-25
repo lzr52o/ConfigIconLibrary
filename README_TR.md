@@ -64,18 +64,18 @@ Proxy uygulamaları (Quantumult X, Surge, Loon, Egern, Stash vb.) için profil s
 
 | Simge Seti | Stil / Açıklama | Simge Sayısı |
 |---|---|---|
-| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json) | Mini şeffaf tema, abonelik simgeleri için ideal | 347 |
-| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json) | Renkli tema · Tüm simgeler | 310 |
-| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json) | Renkli tema · Varsayılan | 15 |
-| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json) | Renkli tema · Sık kullanılanlar | 12 |
-| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json) | Renkli tema · Uygulamalar ve oyunlar | 41 |
-| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json) | Renkli tema · Hizmetler | 16 |
-| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json) | Renkli tema · Diğer | 47 |
-| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json) | Renkli tema · Bölgeler | 56 |
-| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json) | Renkli tema · Akış medyası | 99 |
-| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json) | Renkli tema · Sunucular | 9 |
-| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json) | Renkli tema · Yasaklı | 4 |
-| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json) | Açık tema · Tüm simgeler | 319 |
+| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Quremini.json) | Mini şeffaf tema, abonelik simgeleri için ideal | 347 |
+| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-All.json) | Renkli tema · Tüm simgeler | 310 |
+| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Default.json) | Renkli tema · Varsayılan | 15 |
+| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Common.json) | Renkli tema · Sık kullanılanlar | 12 |
+| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-AppGame.json) | Renkli tema · Uygulamalar ve oyunlar | 41 |
+| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Service.json) | Renkli tema · Hizmetler | 16 |
+| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Other.json) | Renkli tema · Diğer | 47 |
+| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Area.json) | Renkli tema · Bölgeler | 56 |
+| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Media.json) | Renkli tema · Akış medyası | 99 |
+| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Server.json) | Renkli tema · Sunucular | 9 |
+| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Inhibition.json) | Renkli tema · Yasaklı | 4 |
+| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureLight-All.json) | Açık tema · Tüm simgeler | 319 |
 
 Orijinal adres:[Koolson/Qure](https://github.com/Koolson/Qure)
 
@@ -90,13 +90,13 @@ Orijinal adres:[Koolson/Qure](https://github.com/Koolson/Qure)
 
 | Simge Seti | Yazar | Stil / Açıklama | Simge Sayısı |
 |---|---|---|---|
-| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json) | Orz-3 | Mini simgeler. Havalimanı abonelikleri, Task, bölge ve politika grubu simgeleri içerir | 86 |
-| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json) | Semporia | El çizimi tarzı | 379 |
-| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json) | tugepaopao | Sevimli tarz, düzenli olarak güncelleniyor | 125 |
-| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json) | Yuanxsxs | Kedi teması | 41 |
-| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json) | LovedGM | Alıştırma çalışması | 40 |
-| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json) | Toperlock | Attack on Titan teması | 84 |
-| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json) | crossutility | Örnek (yalnızca 3 simge) | 3 |
+| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/mini.json) | Orz-3 | Mini simgeler. Havalimanı abonelikleri, Task, bölge ve politika grubu simgeleri içerir | 86 |
+| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Semporia.json) | Semporia | El çizimi tarzı | 379 |
+| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Cute.json) | tugepaopao | Sevimli tarz, düzenli olarak güncelleniyor | 125 |
+| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Catcat.json) | Yuanxsxs | Kedi teması | 41 |
+| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/zishi-cs.json) | LovedGM | Alıştırma çalışması | 40 |
+| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/AOT-icons.json) | Toperlock | Attack on Titan teması | 84 |
+| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/icon-gallery.json) | crossutility | Örnek (yalnızca 3 simge) | 3 |
 
 Orijinal adres:
 - [Orz-3/mini](https://raw.githubusercontent.com/Orz-3/mini/master/mini.json)

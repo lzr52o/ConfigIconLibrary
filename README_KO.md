@@ -64,18 +64,18 @@
 
 | 아이콘 세트 | 스타일 / 설명 | 아이콘 수 |
 |---|---|---|
-| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json) | 미니 투명 테마, 구독 아이콘으로 적합 | 347 |
-| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json) | 컬러 테마 · 모든 아이콘 | 310 |
-| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json) | 컬러 테마 · 기본 | 15 |
-| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json) | 컬러 테마 · 자주 쓰는 아이콘 | 12 |
-| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json) | 컬러 테마 · 앱 및 게임 | 41 |
-| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json) | 컬러 테마 · 서비스 | 16 |
-| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json) | 컬러 테마 · 기타 | 47 |
-| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json) | 컬러 테마 · 지역 | 56 |
-| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json) | 컬러 테마 · 스트리밍 미디어 | 99 |
-| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json) | 컬러 테마 · 서버 | 9 |
-| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json) | 컬러 테마 · 금지 | 4 |
-| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json) | 라이트 테마 · 모든 아이콘 | 319 |
+| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Quremini.json) | 미니 투명 테마, 구독 아이콘으로 적합 | 347 |
+| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-All.json) | 컬러 테마 · 모든 아이콘 | 310 |
+| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Default.json) | 컬러 테마 · 기본 | 15 |
+| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Common.json) | 컬러 테마 · 자주 쓰는 아이콘 | 12 |
+| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-AppGame.json) | 컬러 테마 · 앱 및 게임 | 41 |
+| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Service.json) | 컬러 테마 · 서비스 | 16 |
+| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Other.json) | 컬러 테마 · 기타 | 47 |
+| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Area.json) | 컬러 테마 · 지역 | 56 |
+| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Media.json) | 컬러 테마 · 스트리밍 미디어 | 99 |
+| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Server.json) | 컬러 테마 · 서버 | 9 |
+| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Inhibition.json) | 컬러 테마 · 금지 | 4 |
+| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureLight-All.json) | 라이트 테마 · 모든 아이콘 | 319 |
 
 원본 주소:[Koolson/Qure](https://github.com/Koolson/Qure)
 
@@ -90,13 +90,13 @@
 
 | 아이콘 세트 | 제작자 | 스타일 / 설명 | 아이콘 수 |
 |---|---|---|---|
-| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json) | Orz-3 | 미니 아이콘. 공항 구독, Task, 지역, 정책 그룹 아이콘 포함 | 86 |
-| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json) | Semporia | 손그림 스타일 | 379 |
-| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json) | tugepaopao | 귀여운 스타일, 계속 업데이트 중 | 125 |
-| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json) | Yuanxsxs | 고양이 테마 | 41 |
-| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json) | LovedGM | 연습 작품 | 40 |
-| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json) | Toperlock | 진격의 거인 테마 | 84 |
-| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json) | crossutility | 예시(아이콘 3개만 있음) | 3 |
+| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/mini.json) | Orz-3 | 미니 아이콘. 공항 구독, Task, 지역, 정책 그룹 아이콘 포함 | 86 |
+| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Semporia.json) | Semporia | 손그림 스타일 | 379 |
+| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Cute.json) | tugepaopao | 귀여운 스타일, 계속 업데이트 중 | 125 |
+| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Catcat.json) | Yuanxsxs | 고양이 테마 | 41 |
+| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/zishi-cs.json) | LovedGM | 연습 작품 | 40 |
+| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/AOT-icons.json) | Toperlock | 진격의 거인 테마 | 84 |
+| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/icon-gallery.json) | crossutility | 예시(아이콘 3개만 있음) | 3 |
 
 원본 주소:
 - [Orz-3/mini](https://raw.githubusercontent.com/Orz-3/mini/master/mini.json)

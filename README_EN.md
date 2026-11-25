@@ -64,18 +64,18 @@ A collection of profile icon subscriptions for proxy apps (Quantumult X, Surge, 
 
 | Icon Set | Style / Description | Icon Count |
 |---|---|---|
-| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Quremini.json) | Mini transparent theme, ideal for subscription icons | 347 |
-| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-All.json) | Color theme · All icons | 310 |
-| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Default.json) | Color theme · Default | 15 |
-| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Common.json) | Color theme · Commonly used | 12 |
-| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-AppGame.json) | Color theme · Apps & Games | 41 |
-| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Service.json) | Color theme · Services | 16 |
-| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Other.json) | Color theme · Others | 47 |
-| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Area.json) | Color theme · Regions | 56 |
-| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Media.json) | Color theme · Streaming media | 99 |
-| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Server.json) | Color theme · Servers | 9 |
-| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureColor-Inhibition.json) | Color theme · Prohibited | 4 |
-| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/QureLight-All.json) | Light theme · All icons | 319 |
+| [Qure mini](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Quremini.json) | Mini transparent theme, ideal for subscription icons | 347 |
+| [Qure Color（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-All.json) | Color theme · All icons | 310 |
+| [Qure Color（默认）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Default.json) | Color theme · Default | 15 |
+| [Qure Color（常用）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Common.json) | Color theme · Commonly used | 12 |
+| [Qure Color（应用与游戏）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-AppGame.json) | Color theme · Apps & Games | 41 |
+| [Qure Color（服务）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Service.json) | Color theme · Services | 16 |
+| [Qure Color（其它）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Other.json) | Color theme · Others | 47 |
+| [Qure Color（地区）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Area.json) | Color theme · Regions | 56 |
+| [Qure Color（流媒体）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Media.json) | Color theme · Streaming media | 99 |
+| [Qure Color（服务器）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Server.json) | Color theme · Servers | 9 |
+| [Qure Color（禁止）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureColor-Inhibition.json) | Color theme · Prohibited | 4 |
+| [Qure Light（全部）](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/QureLight-All.json) | Light theme · All icons | 319 |
 
 Original source:[Koolson/Qure](https://github.com/Koolson/Qure)
 
@@ -90,13 +90,13 @@ Original source:[Koolson/Qure](https://github.com/Koolson/Qure)
 
 | Icon Set | Author | Style / Description | Icon Count |
 |---|---|---|---|
-| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/mini.json) | Orz-3 | Mini icons, including airport subscriptions, Task, region, and policy group icons | 86 |
-| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Semporia.json) | Semporia | Hand-painted style | 379 |
-| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Cute.json) | tugepaopao | Cute style, updated regularly | 125 |
-| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/Catcat.json) | Yuanxsxs | Cat theme | 41 |
-| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/zishi-cs.json) | LovedGM | Practice work | 40 |
-| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/AOT-icons.json) | Toperlock | Attack on Titan theme | 84 |
-| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icon-gallery.json) | crossutility | Example (only 3 icons) | 3 |
+| [mini icons](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/mini.json) | Orz-3 | Mini icons, including airport subscriptions, Task, region, and policy group icons | 86 |
+| [Hand Painted Icon](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Semporia.json) | Semporia | Hand-painted style | 379 |
+| [Cute](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Cute.json) | tugepaopao | Cute style, updated regularly | 125 |
+| [Catcat](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/Catcat.json) | Yuanxsxs | Cat theme | 41 |
+| [拿她练技术](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/zishi-cs.json) | LovedGM | Practice work | 40 |
+| [Attack on Titan](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/AOT-icons.json) | Toperlock | Attack on Titan theme | 84 |
+| [Package Name](https://raw.githubusercontent.com/lzr52o/ConfigIconLibrary/master/icons/icon-gallery.json) | crossutility | Example (only 3 icons) | 3 |
 
 Original source:
 - [Orz-3/mini](https://raw.githubusercontent.com/Orz-3/mini/master/mini.json)
