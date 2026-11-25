@@ -36,7 +36,7 @@ Proxy uygulamaları (Quantumult X, Surge, Loon, Egern, Stash vb.) için profil s
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" width="160" height="140" alt="Rastgele anime görseli" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Günün sözü" /><img src="https://www.dmoe.cc/random.php?v=2" width="160" height="140" alt="二次元随机图" />
+<img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Günün sözü" />
 
 </div>
 
